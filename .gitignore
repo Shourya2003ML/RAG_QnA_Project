@@ -1,0 +1,22 @@
+rag_venv
+.env
+__pycache__/
+*.pyc
+*.pyo
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Python caching
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables & secrets
+.env
+
+# Logs and databases
+*.log
+*.sqlite3
